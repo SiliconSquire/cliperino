@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Sun, 10 Nov 2024 13:21:39 +0300
+Source: cliperino
+Binary: python3-cliperino
+Architecture: all
+Version: 1.0.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: None <None>
+Changed-By: None <None>
+Description:
+ python3-cliperino - A GTK Clipboard Manager with history and search capabilities
+Changes:
+ cliperino (1.0.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.10.0
+Checksums-Sha1:
+ 10ddefeb528f3605fc0c4210a8c5ae21a4223065 5633 cliperino_1.0.0-1_amd64.buildinfo
+ e940d4bbba504270f968af4db2d820fa2db404cc 6484 python3-cliperino_1.0.0-1_all.deb
+Checksums-Sha256:
+ ffc66b7fe8b5cb35bfd86db1d7bf4aedd7f32171d3acb7bd84a7e1d69bb46c65 5633 cliperino_1.0.0-1_amd64.buildinfo
+ a6debb69bde29f208e5de6719fa31b32cde97c05883f7022d77d3236f324bcca 6484 python3-cliperino_1.0.0-1_all.deb
+Files:
+ 85f75b01753a57e7aa733812fd9567bc 5633 python optional cliperino_1.0.0-1_amd64.buildinfo
+ b268ba68884cdb4d155c3bd931c63fdb 6484 python optional python3-cliperino_1.0.0-1_all.deb

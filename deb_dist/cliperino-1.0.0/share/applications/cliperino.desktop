@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Cliperino
+Comment=Clipboard Manager with history
+Exec=cliperino
+Icon=cliperino
+Terminal=false
+Type=Application
+Categories=Utility;GTK;
+Keywords=Clipboard;History;Copy;Paste;

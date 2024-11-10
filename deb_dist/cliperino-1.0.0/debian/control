@@ -1,0 +1,14 @@
+Source: cliperino
+Maintainer: None <None>
+Section: python
+Priority: optional
+Build-Depends: dh-python, python3-setuptools, python3-all, debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/SiliconSquire/cliperino
+
+Package: python3-cliperino
+Architecture: all
+Depends: ${misc:Depends}, ${python3:Depends}
+Description: A GTK Clipboard Manager with history and search capabilities
+ A modern clipboard manager that allows you to search through your clipboard history and easily copy previous items.
+

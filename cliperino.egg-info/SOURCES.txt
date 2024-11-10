@@ -1,0 +1,13 @@
+README.md
+setup.py
+bin/cliperino
+cliperino/__init__.py
+cliperino.egg-info/PKG-INFO
+cliperino.egg-info/SOURCES.txt
+cliperino.egg-info/dependency_links.txt
+cliperino.egg-info/requires.txt
+cliperino.egg-info/top_level.txt
+share/applications/cliperino.desktop
+share/icons/hicolor/128x128/apps/cliperino.svg
+share/icons/hicolor/48x48/apps/cliperino.svg
+share/icons/hicolor/64x64/apps/cliperino.svg

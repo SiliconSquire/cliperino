@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sun, 10 Nov 2024 13:21:39 +0300
+Source: cliperino
+Architecture: source
+Version: 1.0.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: None <None>
+Changed-By: None <None>
+Changes:
+ cliperino (1.0.0-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.10.0
+Checksums-Sha1:
+ 2c0249dfd4c059eb1a01c404812b160dbea94ac5 871 cliperino_1.0.0-1.dsc
+ 26df5944fdcfb850bdf87cd877eb0647535729c4 6520 cliperino_1.0.0.orig.tar.gz
+ 9c66e673fb69c4c72c1ab89f8ddcc0b718df2820 952 cliperino_1.0.0-1.debian.tar.xz
+ cc7a158825bc14202bc9c6c7c2f11207d7f66e3a 5571 cliperino_1.0.0-1_source.buildinfo
+Checksums-Sha256:
+ e03bcd500149103b7f191bfeba4fa8ce733dbff658a15b2934d23252f0df867e 871 cliperino_1.0.0-1.dsc
+ acaf93de9cce0740002d7e371af9d1bf96b7d66d0d0c7b93a758c29dbe353317 6520 cliperino_1.0.0.orig.tar.gz
+ 71f5229309c101236ec98fa30100dc7c379160c13b5f52baad61efa5415b5d3e 952 cliperino_1.0.0-1.debian.tar.xz
+ 9fbc9b143daf45e0bb9c7c0d2a9b6c01bf45043b281087fee9f5b456150da90a 5571 cliperino_1.0.0-1_source.buildinfo
+Files:
+ 67c52a347c2d36ce7d5b1c1350a12d9b 871 python optional cliperino_1.0.0-1.dsc
+ f4c74a198fee62bc72f926f870d95add 6520 python optional cliperino_1.0.0.orig.tar.gz
+ 36e61f5d9c67aea3dcaa078e8882aa72 952 python optional cliperino_1.0.0-1.debian.tar.xz
+ 12e3f6b11baf996b31cae697c969574c 5571 python optional cliperino_1.0.0-1_source.buildinfo

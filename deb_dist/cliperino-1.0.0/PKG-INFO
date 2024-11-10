@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: cliperino
+Version: 1.0.0
+Summary: A GTK Clipboard Manager with history and search capabilities
+Home-page: https://github.com/SiliconSquire/cliperino
+Author: Silicon Squire
+Author-email: discs@siliconsquire.com
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Environment :: X11 Applications :: GTK
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Utilities
+
+A modern clipboard manager that allows you to search through your clipboard history and easily copy previous items.
